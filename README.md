@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ananta Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anantasharma510&label=Profile%20views&color=0e75b6&style=flat" alt="anantasharma510" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anantasharma510" alt="anantasharma510" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@ananta__sharma" target="blank"><img src="https://img.shields.io/twitter/follow/@ananta__sharma?logo=twitter&style=for-the-badge" alt="@ananta__sharma" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://www.anantasharma.com.np/](https://www.anantasharma.com.np/)
+
+- 📫 How to reach me **anantasharma510@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@ananta__sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ananta__sharma" height="30" width="40" /></a>
 <a href="https://linkedin.com/in//ananta-sharma-7a6a3033b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/ananta-sharma-7a6a3033b" height="30" width="40" /></a>
 <a href="https://instagram.com/samir__sharma10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samir__sharma10" height="30" width="40" /></a>
 <a href="https://discord.gg/samirrrrrr5419" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="samirrrrrr5419" height="30" width="40" /></a>
@@ -18,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anantasharma510&show_icons=true&locale=en&layout=compact" alt="anantasharma510" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anantasharma510&show_icons=true&locale=en" alt="anantasharma510" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anantasharma510&" alt="anantasharma510" /></p>
