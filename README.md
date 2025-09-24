@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ananta__sharma" target="blank"><img src="https://img.shields.io/twitter/follow/@ananta__sharma?logo=twitter&style=for-the-badge" alt="@ananta__sharma" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.anantasharma.com.np/](https://www.anantasharma.com.np/)
+
 
 - 📫 How to reach me **anantasharma510@gmail.com**
 
