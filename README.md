@@ -125,9 +125,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anantasharma510&show_icons=true&locale=en&layout=compact" alt="anantasharma510" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anantasharma510&show_icons=true&locale=en" alt="anantasharma510" />
-</p>
+
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anantasharma510&" alt="anantasharma510" />
